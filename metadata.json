@@ -1,0 +1,5 @@
+{
+  "name": "VN Game Currency Profit Calculator",
+  "description": "A simple tool for resellers to calculate profits on Vietnamese game currency transactions, accounting for various fees and exchange rates.",
+  "requestFramePermissions": []
+}
